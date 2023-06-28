@@ -118,9 +118,9 @@ var story = {
    "id": "10:2312",
    "groupID": "0:1",
    "transAnimType": 0,
-   "title": "RESUMO DA OPERAÇÃO",
-   "image": "resumo-da-operação.png",
-   "imageFixedLess": "fl/resumo-da-operação.png",
+   "title": "RESUMO DA OPERACAO",
+   "image": "resumo-da-operacao.png",
+   "imageFixedLess": "fl/resumo-da-operacao.png",
    "index": 1,
    "width": 1440,
    "height": 1694,
@@ -207,7 +207,7 @@ var story = {
        "url": "https://conteudo.ze.express/abf-c"
       }
      ],
-     "image": "resumo-da-operação-0.png",
+     "image": "resumo-da-operacao-0.png",
      "mskH": 960
     }
    ],
@@ -654,9 +654,9 @@ var story = {
    "id": "10:2887",
    "groupID": "0:1",
    "transAnimType": 0,
-   "title": "NÍVEL DE SERVIÇO",
-   "image": "nível-de-serviço.png",
-   "imageFixedLess": "fl/nível-de-serviço.png",
+   "title": "NIVEL DE SERVIÇO",
+   "image": "nivel-de-serviço.png",
+   "imageFixedLess": "fl/nivel-de-serviço.png",
    "index": 7,
    "width": 1440,
    "height": 1240,
@@ -733,7 +733,7 @@ var story = {
        "url": "https://conteudo.ze.express/abf-c"
       }
      ],
-     "image": "nível-de-serviço-0.png",
+     "image": "nivel-de-serviço-0.png",
      "mskH": 960
     }
    ],
