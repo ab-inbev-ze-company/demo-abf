@@ -20,9 +20,9 @@ var story = {
    "id": "10:3576",
    "groupID": "0:1",
    "transAnimType": 0,
-   "title": "Surface Pro 8 - 8",
-   "image": "surface-pro-8-8.png",
-   "imageFixedLess": "fl/surface-pro-8-8.png",
+   "title": "RESUMO - FILTRO 1",
+   "image": "resumo-filtro-1.png",
+   "imageFixedLess": "fl/resumo-filtro-1.png",
    "index": 0,
    "width": 1440,
    "height": 960,
@@ -107,9 +107,19 @@ var story = {
        },
        "index": 6,
        "url": "https://conteudo.ze.express/abf-c"
+      },
+      {
+       "rect": {
+        "x": 35,
+        "y": 552,
+        "width": 206,
+        "height": 31
+       },
+       "index": 7,
+       "url": "https://conteudo.ze.express/abf-indique-um-condo"
       }
      ],
-     "image": "surface-pro-8-8-0.png",
+     "image": "resumo-filtro-1-0.png",
      "mskH": 960
     }
    ],
@@ -173,7 +183,7 @@ var story = {
         "width": 146.6666717529297,
         "height": 22.22222137451172
        },
-       "index": 10,
+       "index": 11,
        "page": 8
       },
       {
@@ -183,7 +193,7 @@ var story = {
         "width": 163.5558319091797,
         "height": 21.33333396911621
        },
-       "index": 11,
+       "index": 12,
        "page": 7
       },
       {
@@ -193,7 +203,7 @@ var story = {
         "width": 181.33360290527344,
         "height": 21.33333396911621
        },
-       "index": 12,
+       "index": 13,
        "page": 6
       },
       {
@@ -203,7 +213,7 @@ var story = {
         "width": 233.77777099609375,
         "height": 35.55555725097656
        },
-       "index": 13,
+       "index": 14,
        "page": 1
       },
       {
@@ -213,7 +223,7 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 14,
+       "index": 15,
        "url": "https://www.plataforma.ze.express/app/sales"
       },
       {
@@ -223,8 +233,18 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 15,
+       "index": 16,
        "url": "https://conteudo.ze.express/abf-c"
+      },
+      {
+       "rect": {
+        "x": 35,
+        "y": 552,
+        "width": 206,
+        "height": 31
+       },
+       "index": 17,
+       "url": "https://conteudo.ze.express/abf-indique-um-condo"
       }
      ],
      "image": "resumo-da-operacao-0.png",
@@ -239,7 +259,7 @@ var story = {
       "width": 274.74822998046875,
       "height": 46.908233642578125
      },
-     "index": 7,
+     "index": 8,
      "page": 4,
      "pageType": "overlay",
      "pageOverlayPin": 0,
@@ -254,7 +274,7 @@ var story = {
       "width": 254.01416015625,
       "height": 48.583526611328125
      },
-     "index": 8,
+     "index": 9,
      "page": 2
     },
     {
@@ -264,7 +284,7 @@ var story = {
       "width": 292.60498046875,
       "height": 48.583526611328125
      },
-     "index": 9,
+     "index": 10,
      "page": 3
     }
    ],
@@ -276,9 +296,9 @@ var story = {
    "id": "10:2495",
    "groupID": "0:1",
    "transAnimType": 0,
-   "title": "Surface Pro 8 - Offline",
-   "image": "surface-pro-8-offline.png",
-   "imageFixedLess": "fl/surface-pro-8-offline.png",
+   "title": "RESUMO - FILTRO 2",
+   "image": "resumo-filtro-2.png",
+   "imageFixedLess": "fl/resumo-filtro-2.png",
    "index": 2,
    "width": 1440,
    "height": 1170,
@@ -311,7 +331,7 @@ var story = {
         "width": 146.6666717529297,
         "height": 22.22222137451172
        },
-       "index": 18,
+       "index": 20,
        "page": 8
       },
       {
@@ -321,7 +341,7 @@ var story = {
         "width": 163.5558319091797,
         "height": 21.33333396911621
        },
-       "index": 19,
+       "index": 21,
        "page": 7
       },
       {
@@ -331,7 +351,7 @@ var story = {
         "width": 181.33360290527344,
         "height": 21.33333396911621
        },
-       "index": 20,
+       "index": 22,
        "page": 6
       },
       {
@@ -341,7 +361,7 @@ var story = {
         "width": 233.77777099609375,
         "height": 35.55555725097656
        },
-       "index": 21,
+       "index": 23,
        "page": 1
       },
       {
@@ -351,7 +371,7 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 22,
+       "index": 24,
        "url": "https://www.plataforma.ze.express/app/sales"
       },
       {
@@ -361,11 +381,21 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 23,
+       "index": 25,
        "url": "https://conteudo.ze.express/abf-c"
+      },
+      {
+       "rect": {
+        "x": 35,
+        "y": 552,
+        "width": 206,
+        "height": 31
+       },
+       "index": 26,
+       "url": "https://conteudo.ze.express/abf-indique-um-condo"
       }
      ],
-     "image": "surface-pro-8-offline-0.png",
+     "image": "resumo-filtro-2-0.png",
      "mskH": 960
     }
    ],
@@ -377,7 +407,7 @@ var story = {
       "width": 254.01416015625,
       "height": 48.583526611328125
      },
-     "index": 16,
+     "index": 18,
      "page": 1
     },
     {
@@ -387,7 +417,7 @@ var story = {
       "width": 292.60498046875,
       "height": 48.583526611328125
      },
-     "index": 17,
+     "index": 19,
      "page": 3
     }
    ],
@@ -399,9 +429,9 @@ var story = {
    "id": "10:3461",
    "groupID": "0:1",
    "transAnimType": 0,
-   "title": "Surface Pro 8 - 10",
-   "image": "surface-pro-8-10.png",
-   "imageFixedLess": "fl/surface-pro-8-10.png",
+   "title": "RESUMO - FILTRO 3",
+   "image": "resumo-filtro-3.png",
+   "imageFixedLess": "fl/resumo-filtro-3.png",
    "index": 3,
    "width": 1440,
    "height": 960,
@@ -434,7 +464,7 @@ var story = {
         "width": 146.6666717529297,
         "height": 22.22222137451172
        },
-       "index": 26,
+       "index": 29,
        "page": 8
       },
       {
@@ -444,7 +474,7 @@ var story = {
         "width": 163.5558319091797,
         "height": 21.33333396911621
        },
-       "index": 27,
+       "index": 30,
        "page": 7
       },
       {
@@ -454,7 +484,7 @@ var story = {
         "width": 181.33360290527344,
         "height": 21.33333396911621
        },
-       "index": 28,
+       "index": 31,
        "page": 6
       },
       {
@@ -464,7 +494,7 @@ var story = {
         "width": 233.77777099609375,
         "height": 35.55555725097656
        },
-       "index": 29,
+       "index": 32,
        "page": 1
       },
       {
@@ -474,7 +504,7 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 30,
+       "index": 33,
        "url": "https://www.plataforma.ze.express/app/sales"
       },
       {
@@ -484,11 +514,21 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 31,
+       "index": 34,
        "url": "https://conteudo.ze.express/abf-c"
+      },
+      {
+       "rect": {
+        "x": 35,
+        "y": 552,
+        "width": 206,
+        "height": 31
+       },
+       "index": 35,
+       "url": "https://conteudo.ze.express/abf-indique-um-condo"
       }
      ],
-     "image": "surface-pro-8-10-0.png",
+     "image": "resumo-filtro-3-0.png",
      "mskH": 960
     }
    ],
@@ -500,7 +540,7 @@ var story = {
       "width": 254.01416015625,
       "height": 48.583526611328125
      },
-     "index": 24,
+     "index": 27,
      "page": 2
     },
     {
@@ -510,7 +550,7 @@ var story = {
       "width": 292.60498046875,
       "height": 48.583526611328125
      },
-     "index": 25,
+     "index": 28,
      "page": 1
     }
    ],
@@ -539,7 +579,7 @@ var story = {
       "width": 241,
       "height": 20
      },
-     "index": 32,
+     "index": 36,
      "page": 0
     }
    ],
@@ -569,7 +609,7 @@ var story = {
       "width": 241,
       "height": 20
      },
-     "index": 33,
+     "index": 37,
      "page": 1
     }
    ],
@@ -617,7 +657,7 @@ var story = {
         "width": 146.96142578125,
         "height": 22.266881942749023
        },
-       "index": 34,
+       "index": 38,
        "page": 8
       },
       {
@@ -627,7 +667,7 @@ var story = {
         "width": 163.8849639892578,
         "height": 21.376205444335938
        },
-       "index": 35,
+       "index": 39,
        "page": 7
       },
       {
@@ -637,7 +677,7 @@ var story = {
         "width": 114.89710998535156,
         "height": 22.266881942749023
        },
-       "index": 36,
+       "index": 40,
        "page": 1
       },
       {
@@ -647,7 +687,7 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 37,
+       "index": 41,
        "url": "https://www.plataforma.ze.express/app/sales"
       },
       {
@@ -657,8 +697,18 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 38,
+       "index": 42,
        "url": "https://conteudo.ze.express/abf-c"
+      },
+      {
+       "rect": {
+        "x": 35,
+        "y": 552,
+        "width": 206,
+        "height": 31
+       },
+       "index": 43,
+       "url": "https://conteudo.ze.express/abf-indique-um-condo"
       }
      ],
      "image": "vendas-0.png",
@@ -709,7 +759,7 @@ var story = {
         "width": 146.6666717529297,
         "height": 22.22222137451172
        },
-       "index": 39,
+       "index": 44,
        "page": 8
       },
       {
@@ -719,7 +769,7 @@ var story = {
         "width": 181.3333282470703,
         "height": 21.33333396911621
        },
-       "index": 40,
+       "index": 45,
        "page": 6
       },
       {
@@ -729,7 +779,7 @@ var story = {
         "width": 114.66666412353516,
         "height": 22.22222137451172
        },
-       "index": 41,
+       "index": 46,
        "page": 1
       },
       {
@@ -739,7 +789,7 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 42,
+       "index": 47,
        "url": "https://www.plataforma.ze.express/app/sales"
       },
       {
@@ -749,8 +799,18 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 43,
+       "index": 48,
        "url": "https://conteudo.ze.express/abf-c"
+      },
+      {
+       "rect": {
+        "x": 35,
+        "y": 552,
+        "width": 206,
+        "height": 31
+       },
+       "index": 49,
+       "url": "https://conteudo.ze.express/abf-indique-um-condo"
       }
      ],
      "image": "nivel-de-servico-0.png",
@@ -801,7 +861,7 @@ var story = {
         "width": 163.55555725097656,
         "height": 21.33333396911621
        },
-       "index": 45,
+       "index": 51,
        "page": 7
       },
       {
@@ -811,7 +871,7 @@ var story = {
         "width": 181.3333282470703,
         "height": 21.33333396911621
        },
-       "index": 46,
+       "index": 52,
        "page": 6
       },
       {
@@ -821,7 +881,7 @@ var story = {
         "width": 114.66666412353516,
         "height": 22.22222137451172
        },
-       "index": 47,
+       "index": 53,
        "page": 1
       },
       {
@@ -831,7 +891,7 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 48,
+       "index": 54,
        "url": "https://www.plataforma.ze.express/app/sales"
       },
       {
@@ -841,8 +901,18 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 49,
+       "index": 55,
        "url": "https://conteudo.ze.express/abf-c"
+      },
+      {
+       "rect": {
+        "x": 35,
+        "y": 552,
+        "width": 206,
+        "height": 31
+       },
+       "index": 56,
+       "url": "https://conteudo.ze.express/abf-indique-um-condo"
       }
      ],
      "image": "estoque-das-lojas-0.png",
@@ -853,11 +923,11 @@ var story = {
     {
      "rect": {
       "x": 324,
-      "y": 434.992919921875,
+      "y": 346.287109375,
       "width": 1068,
       "height": 77.90117645263672
      },
-     "index": 44,
+     "index": 50,
      "page": 9
     }
    ],
@@ -904,7 +974,7 @@ var story = {
         "width": 233.77777099609375,
         "height": 35.55555725097656
        },
-       "index": 53,
+       "index": 60,
        "page": 8
       },
       {
@@ -914,7 +984,7 @@ var story = {
         "width": 163.55555725097656,
         "height": 21.33333396911621
        },
-       "index": 54,
+       "index": 61,
        "page": 7
       },
       {
@@ -924,7 +994,7 @@ var story = {
         "width": 181.3333282470703,
         "height": 21.33333396911621
        },
-       "index": 55,
+       "index": 62,
        "page": 6
       },
       {
@@ -934,7 +1004,7 @@ var story = {
         "width": 114.66666412353516,
         "height": 22.22222137451172
        },
-       "index": 56,
+       "index": 63,
        "page": 1
       },
       {
@@ -944,7 +1014,7 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 57,
+       "index": 64,
        "url": "https://www.plataforma.ze.express/app/sales"
       },
       {
@@ -954,8 +1024,18 @@ var story = {
         "width": 234,
         "height": 52
        },
-       "index": 58,
+       "index": 65,
        "url": "https://conteudo.ze.express/abf-c"
+      },
+      {
+       "rect": {
+        "x": 35,
+        "y": 552,
+        "width": 206,
+        "height": 31
+       },
+       "index": 66,
+       "url": "https://conteudo.ze.express/abf-indique-um-condo"
       }
      ],
      "image": "estoque-athenas-0.png",
@@ -970,7 +1050,7 @@ var story = {
       "width": 227.89451599121094,
       "height": 34.64785385131836
      },
-     "index": 50,
+     "index": 57,
      "page": 10,
      "pageType": "overlay",
      "pageOverlayPin": 1
@@ -982,7 +1062,7 @@ var story = {
       "width": 1065,
       "height": 91
      },
-     "index": 51,
+     "index": 58,
      "page": 10,
      "pageType": "overlay",
      "pageOverlayPin": 1
@@ -994,7 +1074,7 @@ var story = {
       "width": 28,
       "height": 28
      },
-     "index": 52,
+     "index": 59,
      "page": 8
     }
    ],
@@ -1023,7 +1103,7 @@ var story = {
       "width": 20,
       "height": 20
      },
-     "index": 59,
+     "index": 67,
      "action": "CLOSE"
     },
     {
@@ -1033,7 +1113,7 @@ var story = {
       "width": 227,
       "height": 34
      },
-     "index": 60,
+     "index": 68,
      "page": 9
     }
    ],
